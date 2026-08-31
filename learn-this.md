@@ -1,0 +1,5 @@
+- 🧠 c#
+- ⛳ Git och Github
+- 🛜 Webbutveckling
+- 👨‍💻 Databaser
+- 📲 Bygga appar
